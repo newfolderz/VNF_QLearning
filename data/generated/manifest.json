@@ -1,0 +1,1082 @@
+[
+  {
+    "file": "dataset_nsf_uniform_easy_v1.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_easy_v2.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_easy_v3.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_normal_v1.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_normal_v2.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_normal_v3.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_hard_v1.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_hard_v2.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_uniform_hard_v3.json",
+    "topology": "nsf",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_easy_v1.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_easy_v2.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_easy_v3.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_normal_v1.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_normal_v2.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_normal_v3.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_hard_v1.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_hard_v2.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_rural_hard_v3.json",
+    "topology": "nsf",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_easy_v1.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_easy_v2.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_easy_v3.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_normal_v1.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_normal_v2.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_normal_v3.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_hard_v1.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_hard_v2.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_urban_hard_v3.json",
+    "topology": "nsf",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_easy_v1.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_easy_v2.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_easy_v3.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_normal_v1.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_normal_v2.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_normal_v3.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_hard_v1.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_hard_v2.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_nsf_centers_hard_v3.json",
+    "topology": "nsf",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_easy_v1.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_easy_v2.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_easy_v3.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_normal_v1.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_normal_v2.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_normal_v3.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_hard_v1.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_hard_v2.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_uniform_hard_v3.json",
+    "topology": "conus",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_easy_v1.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_easy_v2.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_easy_v3.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_normal_v1.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_normal_v2.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_normal_v3.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_hard_v1.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_hard_v2.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_rural_hard_v3.json",
+    "topology": "conus",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_easy_v1.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_easy_v2.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_easy_v3.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_normal_v1.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_normal_v2.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_normal_v3.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_hard_v1.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_hard_v2.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_urban_hard_v3.json",
+    "topology": "conus",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_easy_v1.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_easy_v2.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_easy_v3.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_normal_v1.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_normal_v2.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_normal_v3.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_hard_v1.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_hard_v2.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_conus_centers_hard_v3.json",
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_easy_v1.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_easy_v2.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_easy_v3.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_normal_v1.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_normal_v2.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_normal_v3.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_hard_v1.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_hard_v2.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_uniform_hard_v3.json",
+    "topology": "cogent",
+    "server_distribution": "uniform",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_easy_v1.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_easy_v2.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_easy_v3.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_normal_v1.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_normal_v2.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_normal_v3.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_hard_v1.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_hard_v2.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_rural_hard_v3.json",
+    "topology": "cogent",
+    "server_distribution": "rural",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_easy_v1.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_easy_v2.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_easy_v3.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_normal_v1.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_normal_v2.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_normal_v3.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_hard_v1.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_hard_v2.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_urban_hard_v3.json",
+    "topology": "cogent",
+    "server_distribution": "urban",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_easy_v1.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_easy_v2.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_easy_v3.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "easy",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_normal_v1.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_normal_v2.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_normal_v3.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_hard_v1.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 1,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_hard_v2.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  {
+    "file": "dataset_cogent_centers_hard_v3.json",
+    "topology": "cogent",
+    "server_distribution": "centers",
+    "difficulty": "hard",
+    "version": 3,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  }
+]

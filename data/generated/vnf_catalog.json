@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "vnf_0",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 1,
+    "name": "vnf_1",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 2,
+    "name": "vnf_2",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 3,
+    "name": "vnf_3",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 4,
+    "name": "vnf_4",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 5,
+    "name": "vnf_5",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 6,
+    "name": "vnf_6",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 7,
+    "name": "vnf_7",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 8,
+    "name": "vnf_8",
+    "description": "Generated VNF type"
+  },
+  {
+    "id": 9,
+    "name": "vnf_9",
+    "description": "Generated VNF type"
+  }
+]

@@ -1,0 +1,2536 @@
+{
+  "schema_version": "1.0",
+  "metadata": {
+    "topology": "conus",
+    "server_distribution": "centers",
+    "difficulty": "normal",
+    "version": 2,
+    "duration": 50,
+    "train_slots": 10,
+    "test_slots": 40
+  },
+  "network": {
+    "nodes": [
+      {
+        "id": 0,
+        "type": "switch"
+      },
+      {
+        "id": 1,
+        "type": "switch"
+      },
+      {
+        "id": 2,
+        "type": "switch"
+      },
+      {
+        "id": 3,
+        "type": "server",
+        "cpu_capacity": 36.1943,
+        "ram_capacity": 41.0092,
+        "hdd_capacity": 23.2005,
+        "cpu_cost": 125.8874,
+        "ram_cost": 97.1519,
+        "hdd_cost": 18.3226,
+        "delay": 0.1437
+      },
+      {
+        "id": 4,
+        "type": "switch"
+      },
+      {
+        "id": 5,
+        "type": "switch"
+      },
+      {
+        "id": 6,
+        "type": "switch"
+      },
+      {
+        "id": 7,
+        "type": "switch"
+      },
+      {
+        "id": 8,
+        "type": "switch"
+      },
+      {
+        "id": 9,
+        "type": "switch"
+      },
+      {
+        "id": 10,
+        "type": "switch"
+      },
+      {
+        "id": 11,
+        "type": "server",
+        "cpu_capacity": 38.7658,
+        "ram_capacity": 35.1266,
+        "hdd_capacity": 34.1522,
+        "cpu_cost": 187.1169,
+        "ram_cost": 65.9919,
+        "hdd_cost": 13.9697,
+        "delay": 0.3003
+      },
+      {
+        "id": 12,
+        "type": "switch"
+      },
+      {
+        "id": 13,
+        "type": "server",
+        "cpu_capacity": 44.3484,
+        "ram_capacity": 21.1063,
+        "hdd_capacity": 29.3005,
+        "cpu_cost": 111.4238,
+        "ram_cost": 53.8201,
+        "hdd_cost": 14.3623,
+        "delay": 0.4741
+      },
+      {
+        "id": 14,
+        "type": "switch"
+      },
+      {
+        "id": 15,
+        "type": "switch"
+      },
+      {
+        "id": 16,
+        "type": "server",
+        "cpu_capacity": 44.4023,
+        "ram_capacity": 21.1275,
+        "hdd_capacity": 33.3512,
+        "cpu_cost": 182.5649,
+        "ram_cost": 68.3965,
+        "hdd_cost": 20.109,
+        "delay": 0.4089
+      },
+      {
+        "id": 17,
+        "type": "server",
+        "cpu_capacity": 20.9185,
+        "ram_capacity": 25.879,
+        "hdd_capacity": 37.1269,
+        "cpu_cost": 127.506,
+        "ram_cost": 96.4858,
+        "hdd_cost": 23.4705,
+        "delay": 0.164
+      },
+      {
+        "id": 18,
+        "type": "server",
+        "cpu_capacity": 22.1007,
+        "ram_capacity": 32.6737,
+        "hdd_capacity": 23.9206,
+        "cpu_cost": 188.9871,
+        "ram_cost": 72.5105,
+        "hdd_cost": 29.2109,
+        "delay": 0.4455
+      },
+      {
+        "id": 19,
+        "type": "switch"
+      },
+      {
+        "id": 20,
+        "type": "switch"
+      },
+      {
+        "id": 21,
+        "type": "switch"
+      },
+      {
+        "id": 22,
+        "type": "switch"
+      },
+      {
+        "id": 23,
+        "type": "switch"
+      },
+      {
+        "id": 24,
+        "type": "server",
+        "cpu_capacity": 29.4961,
+        "ram_capacity": 49.2198,
+        "hdd_capacity": 25.7974,
+        "cpu_cost": 153.7534,
+        "ram_cost": 64.4865,
+        "hdd_cost": 24.0998,
+        "delay": 0.2733
+      },
+      {
+        "id": 25,
+        "type": "switch"
+      },
+      {
+        "id": 26,
+        "type": "switch"
+      },
+      {
+        "id": 27,
+        "type": "switch"
+      },
+      {
+        "id": 28,
+        "type": "switch"
+      },
+      {
+        "id": 29,
+        "type": "switch"
+      },
+      {
+        "id": 30,
+        "type": "switch"
+      },
+      {
+        "id": 31,
+        "type": "switch"
+      },
+      {
+        "id": 32,
+        "type": "switch"
+      },
+      {
+        "id": 33,
+        "type": "switch"
+      },
+      {
+        "id": 34,
+        "type": "switch"
+      },
+      {
+        "id": 35,
+        "type": "switch"
+      },
+      {
+        "id": 36,
+        "type": "switch"
+      },
+      {
+        "id": 37,
+        "type": "switch"
+      },
+      {
+        "id": 38,
+        "type": "switch"
+      },
+      {
+        "id": 39,
+        "type": "switch"
+      },
+      {
+        "id": 40,
+        "type": "server",
+        "cpu_capacity": 39.7504,
+        "ram_capacity": 33.9048,
+        "hdd_capacity": 32.9818,
+        "cpu_cost": 106.1213,
+        "ram_cost": 75.2336,
+        "hdd_cost": 17.6628,
+        "delay": 0.174
+      },
+      {
+        "id": 41,
+        "type": "switch"
+      },
+      {
+        "id": 42,
+        "type": "switch"
+      },
+      {
+        "id": 43,
+        "type": "switch"
+      },
+      {
+        "id": 44,
+        "type": "switch"
+      },
+      {
+        "id": 45,
+        "type": "switch"
+      },
+      {
+        "id": 46,
+        "type": "switch"
+      },
+      {
+        "id": 47,
+        "type": "switch"
+      },
+      {
+        "id": 48,
+        "type": "switch"
+      },
+      {
+        "id": 49,
+        "type": "switch"
+      },
+      {
+        "id": 50,
+        "type": "switch"
+      },
+      {
+        "id": 51,
+        "type": "switch"
+      },
+      {
+        "id": 52,
+        "type": "switch"
+      },
+      {
+        "id": 53,
+        "type": "switch"
+      },
+      {
+        "id": 54,
+        "type": "switch"
+      },
+      {
+        "id": 55,
+        "type": "switch"
+      },
+      {
+        "id": 56,
+        "type": "switch"
+      },
+      {
+        "id": 57,
+        "type": "switch"
+      },
+      {
+        "id": 58,
+        "type": "switch"
+      },
+      {
+        "id": 59,
+        "type": "switch"
+      },
+      {
+        "id": 60,
+        "type": "switch"
+      },
+      {
+        "id": 61,
+        "type": "switch"
+      },
+      {
+        "id": 62,
+        "type": "switch"
+      },
+      {
+        "id": 63,
+        "type": "switch"
+      },
+      {
+        "id": 64,
+        "type": "switch"
+      },
+      {
+        "id": 65,
+        "type": "switch"
+      },
+      {
+        "id": 66,
+        "type": "switch"
+      },
+      {
+        "id": 67,
+        "type": "switch"
+      },
+      {
+        "id": 68,
+        "type": "switch"
+      },
+      {
+        "id": 69,
+        "type": "switch"
+      },
+      {
+        "id": 70,
+        "type": "switch"
+      },
+      {
+        "id": 71,
+        "type": "switch"
+      },
+      {
+        "id": 72,
+        "type": "switch"
+      },
+      {
+        "id": 73,
+        "type": "switch"
+      },
+      {
+        "id": 74,
+        "type": "switch"
+      }
+    ],
+    "links": [
+      {
+        "source": 0,
+        "target": 2,
+        "distance": 47.372299,
+        "bandwidth_capacity": 49.1408,
+        "delay": 0.069808
+      },
+      {
+        "source": 0,
+        "target": 5,
+        "distance": 163.088318,
+        "bandwidth_capacity": 85.4675,
+        "delay": 0.240327
+      },
+      {
+        "source": 0,
+        "target": 13,
+        "distance": 203.583195,
+        "bandwidth_capacity": 73.5479,
+        "delay": 0.3
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "distance": 9.615447,
+        "bandwidth_capacity": 93.792,
+        "delay": 0.014169
+      },
+      {
+        "source": 1,
+        "target": 4,
+        "distance": 13.644159,
+        "bandwidth_capacity": 111.3646,
+        "delay": 0.020106
+      },
+      {
+        "source": 2,
+        "target": 9,
+        "distance": 77.017759,
+        "bandwidth_capacity": 66.8974,
+        "delay": 0.113493
+      },
+      {
+        "source": 3,
+        "target": 5,
+        "distance": 19.466319,
+        "bandwidth_capacity": 77.0662,
+        "delay": 0.028686
+      },
+      {
+        "source": 3,
+        "target": 13,
+        "distance": 176.574206,
+        "bandwidth_capacity": 40.2905,
+        "delay": 0.2602
+      },
+      {
+        "source": 3,
+        "target": 6,
+        "distance": 42.685871,
+        "bandwidth_capacity": 69.4751,
+        "delay": 0.062902
+      },
+      {
+        "source": 4,
+        "target": 7,
+        "distance": 75.397567,
+        "bandwidth_capacity": 109.1709,
+        "delay": 0.111106
+      },
+      {
+        "source": 6,
+        "target": 11,
+        "distance": 80.368577,
+        "bandwidth_capacity": 109.0026,
+        "delay": 0.118431
+      },
+      {
+        "source": 6,
+        "target": 8,
+        "distance": 69.055223,
+        "bandwidth_capacity": 77.3869,
+        "delay": 0.10176
+      },
+      {
+        "source": 7,
+        "target": 8,
+        "distance": 19.899506,
+        "bandwidth_capacity": 61.2547,
+        "delay": 0.029324
+      },
+      {
+        "source": 8,
+        "target": 10,
+        "distance": 34.927651,
+        "bandwidth_capacity": 98.5454,
+        "delay": 0.051469
+      },
+      {
+        "source": 9,
+        "target": 15,
+        "distance": 151.278525,
+        "bandwidth_capacity": 86.0953,
+        "delay": 0.222924
+      },
+      {
+        "source": 10,
+        "target": 12,
+        "distance": 80.650095,
+        "bandwidth_capacity": 77.2184,
+        "delay": 0.118846
+      },
+      {
+        "source": 11,
+        "target": 13,
+        "distance": 117.233618,
+        "bandwidth_capacity": 47.218,
+        "delay": 0.172755
+      },
+      {
+        "source": 11,
+        "target": 12,
+        "distance": 76.480502,
+        "bandwidth_capacity": 75.1698,
+        "delay": 0.112702
+      },
+      {
+        "source": 11,
+        "target": 16,
+        "distance": 131.107812,
+        "bandwidth_capacity": 67.0919,
+        "delay": 0.1932
+      },
+      {
+        "source": 12,
+        "target": 14,
+        "distance": 36.730286,
+        "bandwidth_capacity": 95.9835,
+        "delay": 0.054126
+      },
+      {
+        "source": 13,
+        "target": 18,
+        "distance": 110.934477,
+        "bandwidth_capacity": 31.9959,
+        "delay": 0.163473
+      },
+      {
+        "source": 14,
+        "target": 17,
+        "distance": 69.480107,
+        "bandwidth_capacity": 115.1031,
+        "delay": 0.102386
+      },
+      {
+        "source": 15,
+        "target": 18,
+        "distance": 146.419064,
+        "bandwidth_capacity": 48.6062,
+        "delay": 0.215763
+      },
+      {
+        "source": 15,
+        "target": 19,
+        "distance": 124.069258,
+        "bandwidth_capacity": 81.1619,
+        "delay": 0.182828
+      },
+      {
+        "source": 16,
+        "target": 18,
+        "distance": 112.328214,
+        "bandwidth_capacity": 30.4639,
+        "delay": 0.165527
+      },
+      {
+        "source": 16,
+        "target": 17,
+        "distance": 75.632063,
+        "bandwidth_capacity": 37.3648,
+        "delay": 0.111451
+      },
+      {
+        "source": 16,
+        "target": 24,
+        "distance": 165.339161,
+        "bandwidth_capacity": 59.9487,
+        "delay": 0.243644
+      },
+      {
+        "source": 17,
+        "target": 20,
+        "distance": 106.50379,
+        "bandwidth_capacity": 88.462,
+        "delay": 0.156944
+      },
+      {
+        "source": 17,
+        "target": 21,
+        "distance": 134.571372,
+        "bandwidth_capacity": 101.078,
+        "delay": 0.198304
+      },
+      {
+        "source": 18,
+        "target": 25,
+        "distance": 144.404142,
+        "bandwidth_capacity": 63.286,
+        "delay": 0.212794
+      },
+      {
+        "source": 19,
+        "target": 29,
+        "distance": 118.959407,
+        "bandwidth_capacity": 38.9353,
+        "delay": 0.175298
+      },
+      {
+        "source": 20,
+        "target": 24,
+        "distance": 47.245799,
+        "bandwidth_capacity": 55.6083,
+        "delay": 0.069621
+      },
+      {
+        "source": 21,
+        "target": 22,
+        "distance": 24.818589,
+        "bandwidth_capacity": 56.3619,
+        "delay": 0.036573
+      },
+      {
+        "source": 22,
+        "target": 27,
+        "distance": 38.025385,
+        "bandwidth_capacity": 66.5245,
+        "delay": 0.056034
+      },
+      {
+        "source": 23,
+        "target": 24,
+        "distance": 61.810088,
+        "bandwidth_capacity": 90.3293,
+        "delay": 0.091083
+      },
+      {
+        "source": 23,
+        "target": 26,
+        "distance": 26.402453,
+        "bandwidth_capacity": 40.3676,
+        "delay": 0.038907
+      },
+      {
+        "source": 24,
+        "target": 27,
+        "distance": 75.115681,
+        "bandwidth_capacity": 56.6639,
+        "delay": 0.11069
+      },
+      {
+        "source": 24,
+        "target": 30,
+        "distance": 85.335915,
+        "bandwidth_capacity": 63.8322,
+        "delay": 0.125751
+      },
+      {
+        "source": 25,
+        "target": 29,
+        "distance": 95.183973,
+        "bandwidth_capacity": 55.9882,
+        "delay": 0.140263
+      },
+      {
+        "source": 25,
+        "target": 28,
+        "distance": 52.604151,
+        "bandwidth_capacity": 67.7837,
+        "delay": 0.077517
+      },
+      {
+        "source": 26,
+        "target": 28,
+        "distance": 72.431359,
+        "bandwidth_capacity": 89.3107,
+        "delay": 0.106735
+      },
+      {
+        "source": 27,
+        "target": 31,
+        "distance": 70.842662,
+        "bandwidth_capacity": 72.8848,
+        "delay": 0.104394
+      },
+      {
+        "source": 28,
+        "target": 32,
+        "distance": 70.004032,
+        "bandwidth_capacity": 50.0737,
+        "delay": 0.103158
+      },
+      {
+        "source": 29,
+        "target": 36,
+        "distance": 97.911286,
+        "bandwidth_capacity": 86.5583,
+        "delay": 0.144282
+      },
+      {
+        "source": 30,
+        "target": 33,
+        "distance": 34.82035,
+        "bandwidth_capacity": 47.7334,
+        "delay": 0.051311
+      },
+      {
+        "source": 31,
+        "target": 34,
+        "distance": 20.477393,
+        "bandwidth_capacity": 106.2807,
+        "delay": 0.030175
+      },
+      {
+        "source": 32,
+        "target": 35,
+        "distance": 21.209025,
+        "bandwidth_capacity": 114.5103,
+        "delay": 0.031254
+      },
+      {
+        "source": 32,
+        "target": 40,
+        "distance": 71.571821,
+        "bandwidth_capacity": 33.455,
+        "delay": 0.105468
+      },
+      {
+        "source": 33,
+        "target": 39,
+        "distance": 59.432189,
+        "bandwidth_capacity": 87.0079,
+        "delay": 0.087579
+      },
+      {
+        "source": 34,
+        "target": 38,
+        "distance": 92.526865,
+        "bandwidth_capacity": 40.2357,
+        "delay": 0.136347
+      },
+      {
+        "source": 34,
+        "target": 43,
+        "distance": 87.87258,
+        "bandwidth_capacity": 78.489,
+        "delay": 0.129489
+      },
+      {
+        "source": 35,
+        "target": 37,
+        "distance": 64.366774,
+        "bandwidth_capacity": 82.2566,
+        "delay": 0.094851
+      },
+      {
+        "source": 36,
+        "target": 37,
+        "distance": 27.680599,
+        "bandwidth_capacity": 80.6063,
+        "delay": 0.04079
+      },
+      {
+        "source": 37,
+        "target": 45,
+        "distance": 70.937461,
+        "bandwidth_capacity": 68.8016,
+        "delay": 0.104533
+      },
+      {
+        "source": 38,
+        "target": 39,
+        "distance": 62.297779,
+        "bandwidth_capacity": 90.3641,
+        "delay": 0.091802
+      },
+      {
+        "source": 38,
+        "target": 42,
+        "distance": 36.82031,
+        "bandwidth_capacity": 99.5678,
+        "delay": 0.054258
+      },
+      {
+        "source": 39,
+        "target": 40,
+        "distance": 47.859588,
+        "bandwidth_capacity": 79.0662,
+        "delay": 0.070526
+      },
+      {
+        "source": 40,
+        "target": 41,
+        "distance": 29.055751,
+        "bandwidth_capacity": 60.4283,
+        "delay": 0.042817
+      },
+      {
+        "source": 40,
+        "target": 56,
+        "distance": 111.162394,
+        "bandwidth_capacity": 47.184,
+        "delay": 0.163809
+      },
+      {
+        "source": 41,
+        "target": 46,
+        "distance": 30.923292,
+        "bandwidth_capacity": 84.4205,
+        "delay": 0.045569
+      },
+      {
+        "source": 41,
+        "target": 61,
+        "distance": 120.504409,
+        "bandwidth_capacity": 99.0732,
+        "delay": 0.177575
+      },
+      {
+        "source": 42,
+        "target": 51,
+        "distance": 64.673857,
+        "bandwidth_capacity": 43.9979,
+        "delay": 0.095303
+      },
+      {
+        "source": 42,
+        "target": 49,
+        "distance": 89.488263,
+        "bandwidth_capacity": 109.6171,
+        "delay": 0.13187
+      },
+      {
+        "source": 43,
+        "target": 47,
+        "distance": 61.66072,
+        "bandwidth_capacity": 45.4256,
+        "delay": 0.090863
+      },
+      {
+        "source": 44,
+        "target": 48,
+        "distance": 30.365596,
+        "bandwidth_capacity": 42.7498,
+        "delay": 0.044747
+      },
+      {
+        "source": 44,
+        "target": 45,
+        "distance": 18.058176,
+        "bandwidth_capacity": 113.8711,
+        "delay": 0.026611
+      },
+      {
+        "source": 46,
+        "target": 48,
+        "distance": 40.931888,
+        "bandwidth_capacity": 93.1313,
+        "delay": 0.060317
+      },
+      {
+        "source": 46,
+        "target": 54,
+        "distance": 47.554337,
+        "bandwidth_capacity": 112.4124,
+        "delay": 0.070076
+      },
+      {
+        "source": 47,
+        "target": 52,
+        "distance": 62.418971,
+        "bandwidth_capacity": 50.2071,
+        "delay": 0.091981
+      },
+      {
+        "source": 48,
+        "target": 57,
+        "distance": 57.181947,
+        "bandwidth_capacity": 107.391,
+        "delay": 0.084263
+      },
+      {
+        "source": 49,
+        "target": 55,
+        "distance": 62.717357,
+        "bandwidth_capacity": 94.6986,
+        "delay": 0.09242
+      },
+      {
+        "source": 49,
+        "target": 50,
+        "distance": 45.33356,
+        "bandwidth_capacity": 92.2117,
+        "delay": 0.066803
+      },
+      {
+        "source": 50,
+        "target": 53,
+        "distance": 43.383166,
+        "bandwidth_capacity": 117.7179,
+        "delay": 0.063929
+      },
+      {
+        "source": 51,
+        "target": 56,
+        "distance": 30.608842,
+        "bandwidth_capacity": 117.3075,
+        "delay": 0.045105
+      },
+      {
+        "source": 52,
+        "target": 53,
+        "distance": 20.988239,
+        "bandwidth_capacity": 76.4659,
+        "delay": 0.030928
+      },
+      {
+        "source": 54,
+        "target": 65,
+        "distance": 72.460137,
+        "bandwidth_capacity": 83.9878,
+        "delay": 0.106777
+      },
+      {
+        "source": 54,
+        "target": 62,
+        "distance": 60.207425,
+        "bandwidth_capacity": 80.6421,
+        "delay": 0.088722
+      },
+      {
+        "source": 55,
+        "target": 58,
+        "distance": 75.402486,
+        "bandwidth_capacity": 48.3915,
+        "delay": 0.111113
+      },
+      {
+        "source": 56,
+        "target": 59,
+        "distance": 46.459085,
+        "bandwidth_capacity": 68.0789,
+        "delay": 0.068462
+      },
+      {
+        "source": 56,
+        "target": 58,
+        "distance": 17.360191,
+        "bandwidth_capacity": 47.6879,
+        "delay": 0.025582
+      },
+      {
+        "source": 57,
+        "target": 60,
+        "distance": 23.67603,
+        "bandwidth_capacity": 97.8778,
+        "delay": 0.034889
+      },
+      {
+        "source": 58,
+        "target": 63,
+        "distance": 42.100675,
+        "bandwidth_capacity": 35.5372,
+        "delay": 0.06204
+      },
+      {
+        "source": 59,
+        "target": 61,
+        "distance": 39.190829,
+        "bandwidth_capacity": 39.9675,
+        "delay": 0.057752
+      },
+      {
+        "source": 60,
+        "target": 64,
+        "distance": 18.209938,
+        "bandwidth_capacity": 94.0144,
+        "delay": 0.026834
+      },
+      {
+        "source": 61,
+        "target": 62,
+        "distance": 11.91873,
+        "bandwidth_capacity": 78.2672,
+        "delay": 0.017563
+      },
+      {
+        "source": 62,
+        "target": 66,
+        "distance": 19.907704,
+        "bandwidth_capacity": 90.3446,
+        "delay": 0.029336
+      },
+      {
+        "source": 63,
+        "target": 66,
+        "distance": 71.312731,
+        "bandwidth_capacity": 66.071,
+        "delay": 0.105086
+      },
+      {
+        "source": 64,
+        "target": 70,
+        "distance": 38.783013,
+        "bandwidth_capacity": 115.9942,
+        "delay": 0.057151
+      },
+      {
+        "source": 64,
+        "target": 65,
+        "distance": 39.229581,
+        "bandwidth_capacity": 115.8393,
+        "delay": 0.057809
+      },
+      {
+        "source": 65,
+        "target": 68,
+        "distance": 24.960919,
+        "bandwidth_capacity": 82.0444,
+        "delay": 0.036782
+      },
+      {
+        "source": 66,
+        "target": 67,
+        "distance": 6.98269,
+        "bandwidth_capacity": 118.5396,
+        "delay": 0.01029
+      },
+      {
+        "source": 67,
+        "target": 68,
+        "distance": 19.230894,
+        "bandwidth_capacity": 85.8011,
+        "delay": 0.028339
+      },
+      {
+        "source": 67,
+        "target": 69,
+        "distance": 21.223128,
+        "bandwidth_capacity": 86.9898,
+        "delay": 0.031274
+      },
+      {
+        "source": 68,
+        "target": 69,
+        "distance": 7.347404,
+        "bandwidth_capacity": 114.3589,
+        "delay": 0.010827
+      },
+      {
+        "source": 69,
+        "target": 71,
+        "distance": 7.676991,
+        "bandwidth_capacity": 98.4662,
+        "delay": 0.011313
+      },
+      {
+        "source": 70,
+        "target": 74,
+        "distance": 45.457011,
+        "bandwidth_capacity": 40.6659,
+        "delay": 0.066985
+      },
+      {
+        "source": 71,
+        "target": 72,
+        "distance": 32.496794,
+        "bandwidth_capacity": 60.6192,
+        "delay": 0.047887
+      },
+      {
+        "source": 72,
+        "target": 73,
+        "distance": 21.794696,
+        "bandwidth_capacity": 80.562,
+        "delay": 0.032117
+      },
+      {
+        "source": 73,
+        "target": 74,
+        "distance": 15.074218,
+        "bandwidth_capacity": 36.4227,
+        "delay": 0.022213
+      }
+    ],
+    "server_nodes": [
+      3,
+      11,
+      13,
+      16,
+      17,
+      18,
+      24,
+      40
+    ]
+  },
+  "vnfs": [
+    {
+      "id": 0,
+      "cpu_demand": 4.3859,
+      "ram_demand": 2.7139,
+      "hdd_demand": 4.0462,
+      "processing_delay": 0.00723
+    },
+    {
+      "id": 1,
+      "cpu_demand": 5.69,
+      "ram_demand": 5.8688,
+      "hdd_demand": 2.3148,
+      "processing_delay": 0.00873
+    },
+    {
+      "id": 2,
+      "cpu_demand": 3.6077,
+      "ram_demand": 3.1993,
+      "hdd_demand": 3.4222,
+      "processing_delay": 0.008388
+    },
+    {
+      "id": 3,
+      "cpu_demand": 2.8703,
+      "ram_demand": 3.8352,
+      "hdd_demand": 5.6787,
+      "processing_delay": 0.007491
+    },
+    {
+      "id": 4,
+      "cpu_demand": 3.9972,
+      "ram_demand": 5.6636,
+      "hdd_demand": 5.3899,
+      "processing_delay": 0.00362
+    },
+    {
+      "id": 5,
+      "cpu_demand": 4.5728,
+      "ram_demand": 4.8375,
+      "hdd_demand": 5.1483,
+      "processing_delay": 0.007317
+    },
+    {
+      "id": 6,
+      "cpu_demand": 2.2091,
+      "ram_demand": 2.8009,
+      "hdd_demand": 2.9843,
+      "processing_delay": 0.005534
+    },
+    {
+      "id": 7,
+      "cpu_demand": 4.9476,
+      "ram_demand": 3.7635,
+      "hdd_demand": 3.5349,
+      "processing_delay": 0.005315
+    },
+    {
+      "id": 8,
+      "cpu_demand": 2.721,
+      "ram_demand": 4.8877,
+      "hdd_demand": 4.1801,
+      "processing_delay": 0.004847
+    },
+    {
+      "id": 9,
+      "cpu_demand": 2.3346,
+      "ram_demand": 5.8374,
+      "hdd_demand": 5.2571,
+      "processing_delay": 0.003993
+    }
+  ],
+  "requests": [
+    {
+      "id": 0,
+      "arrival_time": 1,
+      "start_time": 2,
+      "source": 8,
+      "destination": 21,
+      "bandwidth": 3.3647,
+      "deadline": 10.1182,
+      "vnf_chain": [
+        6,
+        8,
+        9
+      ],
+      "placement_hint": [
+        16,
+        13,
+        17
+      ],
+      "route_hint": [
+        8,
+        10,
+        12,
+        14,
+        17,
+        21
+      ]
+    },
+    {
+      "id": 1,
+      "arrival_time": 2,
+      "start_time": 3,
+      "source": 55,
+      "destination": 61,
+      "bandwidth": 9.3434,
+      "deadline": 8.1059,
+      "vnf_chain": [
+        2
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        55,
+        58,
+        56,
+        59,
+        61
+      ]
+    },
+    {
+      "id": 2,
+      "arrival_time": 3,
+      "start_time": 4,
+      "source": 55,
+      "destination": 25,
+      "bandwidth": 8.6528,
+      "deadline": 11.0732,
+      "vnf_chain": [
+        8
+      ],
+      "placement_hint": [
+        40
+      ],
+      "route_hint": [
+        55,
+        58,
+        56,
+        40,
+        32,
+        28,
+        25
+      ]
+    },
+    {
+      "id": 3,
+      "arrival_time": 4,
+      "start_time": 5,
+      "source": 7,
+      "destination": 45,
+      "bandwidth": 8.4622,
+      "deadline": 22.0708,
+      "vnf_chain": [
+        8
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        7,
+        8,
+        10,
+        12,
+        14,
+        17,
+        20,
+        24,
+        30,
+        33,
+        39,
+        40,
+        41,
+        46,
+        48,
+        44,
+        45
+      ]
+    },
+    {
+      "id": 4,
+      "arrival_time": 4,
+      "start_time": 6,
+      "source": 20,
+      "destination": 56,
+      "bandwidth": 2.633,
+      "deadline": 12.1021,
+      "vnf_chain": [
+        2
+      ],
+      "placement_hint": [
+        24
+      ],
+      "route_hint": [
+        20,
+        24,
+        30,
+        33,
+        39,
+        40,
+        56
+      ]
+    },
+    {
+      "id": 5,
+      "arrival_time": 5,
+      "start_time": 7,
+      "source": 73,
+      "destination": 20,
+      "bandwidth": 10.8818,
+      "deadline": 23.4114,
+      "vnf_chain": [
+        8,
+        9,
+        6
+      ],
+      "placement_hint": [
+        3,
+        13,
+        3
+      ],
+      "route_hint": [
+        73,
+        72,
+        71,
+        69,
+        67,
+        66,
+        62,
+        61,
+        41,
+        40,
+        39,
+        33,
+        30,
+        24,
+        20
+      ]
+    },
+    {
+      "id": 6,
+      "arrival_time": 6,
+      "start_time": 7,
+      "source": 72,
+      "destination": 47,
+      "bandwidth": 2.7201,
+      "deadline": 22.3108,
+      "vnf_chain": [
+        9,
+        0,
+        8
+      ],
+      "placement_hint": [
+        16,
+        17,
+        17
+      ],
+      "route_hint": [
+        72,
+        71,
+        69,
+        67,
+        66,
+        63,
+        58,
+        55,
+        49,
+        50,
+        53,
+        52,
+        47
+      ]
+    },
+    {
+      "id": 7,
+      "arrival_time": 6,
+      "start_time": 8,
+      "source": 54,
+      "destination": 1,
+      "bandwidth": 11.0809,
+      "deadline": 18.0329,
+      "vnf_chain": [
+        8
+      ],
+      "placement_hint": [
+        11
+      ],
+      "route_hint": [
+        54,
+        46,
+        41,
+        40,
+        32,
+        28,
+        25,
+        18,
+        13,
+        3,
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "arrival_time": 7,
+      "start_time": 8,
+      "source": 46,
+      "destination": 29,
+      "bandwidth": 2.8662,
+      "deadline": 16.1732,
+      "vnf_chain": [
+        5,
+        2
+      ],
+      "placement_hint": [
+        40,
+        18
+      ],
+      "route_hint": [
+        46,
+        48,
+        44,
+        45,
+        37,
+        36,
+        29
+      ]
+    },
+    {
+      "id": 9,
+      "arrival_time": 8,
+      "start_time": 10,
+      "source": 67,
+      "destination": 36,
+      "bandwidth": 12.5267,
+      "deadline": 21.4837,
+      "vnf_chain": [
+        4,
+        2,
+        9
+      ],
+      "placement_hint": [
+        18,
+        18,
+        11
+      ],
+      "route_hint": [
+        67,
+        66,
+        62,
+        54,
+        46,
+        48,
+        44,
+        45,
+        37,
+        36
+      ]
+    },
+    {
+      "id": 10,
+      "arrival_time": 8,
+      "start_time": 9,
+      "source": 52,
+      "destination": 73,
+      "bandwidth": 7.1069,
+      "deadline": 23.0195,
+      "vnf_chain": [
+        2,
+        1
+      ],
+      "placement_hint": [
+        18,
+        17
+      ],
+      "route_hint": [
+        52,
+        53,
+        50,
+        49,
+        55,
+        58,
+        63,
+        66,
+        67,
+        69,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "id": 11,
+      "arrival_time": 8,
+      "start_time": 8,
+      "source": 0,
+      "destination": 63,
+      "bandwidth": 4.5615,
+      "deadline": 19.0777,
+      "vnf_chain": [
+        0
+      ],
+      "placement_hint": [
+        40
+      ],
+      "route_hint": [
+        0,
+        13,
+        18,
+        25,
+        28,
+        32,
+        40,
+        56,
+        58,
+        63
+      ]
+    },
+    {
+      "id": 12,
+      "arrival_time": 9,
+      "start_time": 11,
+      "source": 10,
+      "destination": 4,
+      "bandwidth": 5.8221,
+      "deadline": 15.3777,
+      "vnf_chain": [
+        0,
+        5
+      ],
+      "placement_hint": [
+        11,
+        11
+      ],
+      "route_hint": [
+        10,
+        8,
+        7,
+        4
+      ]
+    },
+    {
+      "id": 13,
+      "arrival_time": 9,
+      "start_time": 10,
+      "source": 36,
+      "destination": 19,
+      "bandwidth": 3.402,
+      "deadline": 14.0901,
+      "vnf_chain": [
+        4,
+        3
+      ],
+      "placement_hint": [
+        16,
+        24
+      ],
+      "route_hint": [
+        36,
+        29,
+        19
+      ]
+    },
+    {
+      "id": 14,
+      "arrival_time": 10,
+      "start_time": 11,
+      "source": 26,
+      "destination": 52,
+      "bandwidth": 3.2881,
+      "deadline": 21.3039,
+      "vnf_chain": [
+        6,
+        9
+      ],
+      "placement_hint": [
+        40,
+        17
+      ],
+      "route_hint": [
+        26,
+        23,
+        24,
+        27,
+        31,
+        34,
+        43,
+        47,
+        52
+      ]
+    },
+    {
+      "id": 15,
+      "arrival_time": 11,
+      "start_time": 11,
+      "source": 29,
+      "destination": 72,
+      "bandwidth": 1.4254,
+      "deadline": 26.0738,
+      "vnf_chain": [
+        3
+      ],
+      "placement_hint": [
+        17
+      ],
+      "route_hint": [
+        29,
+        36,
+        37,
+        45,
+        44,
+        48,
+        57,
+        60,
+        64,
+        65,
+        68,
+        69,
+        71,
+        72
+      ]
+    },
+    {
+      "id": 16,
+      "arrival_time": 12,
+      "start_time": 14,
+      "source": 63,
+      "destination": 10,
+      "bandwidth": 13.2706,
+      "deadline": 26.1006,
+      "vnf_chain": [
+        0
+      ],
+      "placement_hint": [
+        17
+      ],
+      "route_hint": [
+        63,
+        58,
+        56,
+        40,
+        39,
+        33,
+        30,
+        24,
+        20,
+        17,
+        14,
+        12,
+        10
+      ]
+    },
+    {
+      "id": 17,
+      "arrival_time": 12,
+      "start_time": 13,
+      "source": 49,
+      "destination": 39,
+      "bandwidth": 14.5741,
+      "deadline": 19.5008,
+      "vnf_chain": [
+        3,
+        6,
+        1
+      ],
+      "placement_hint": [
+        16,
+        11,
+        18
+      ],
+      "route_hint": [
+        49,
+        42,
+        38,
+        39
+      ]
+    },
+    {
+      "id": 18,
+      "arrival_time": 13,
+      "start_time": 13,
+      "source": 61,
+      "destination": 22,
+      "bandwidth": 11.0966,
+      "deadline": 24.0307,
+      "vnf_chain": [
+        9
+      ],
+      "placement_hint": [
+        11
+      ],
+      "route_hint": [
+        61,
+        59,
+        56,
+        51,
+        42,
+        38,
+        34,
+        31,
+        27,
+        22
+      ]
+    },
+    {
+      "id": 19,
+      "arrival_time": 14,
+      "start_time": 16,
+      "source": 4,
+      "destination": 39,
+      "bandwidth": 4.4471,
+      "deadline": 25.1486,
+      "vnf_chain": [
+        6
+      ],
+      "placement_hint": [
+        17
+      ],
+      "route_hint": [
+        4,
+        1,
+        3,
+        6,
+        11,
+        16,
+        24,
+        30,
+        33,
+        39
+      ]
+    },
+    {
+      "id": 20,
+      "arrival_time": 14,
+      "start_time": 16,
+      "source": 71,
+      "destination": 10,
+      "bandwidth": 12.5697,
+      "deadline": 32.0052,
+      "vnf_chain": [
+        8
+      ],
+      "placement_hint": [
+        24
+      ],
+      "route_hint": [
+        71,
+        69,
+        67,
+        66,
+        62,
+        61,
+        41,
+        40,
+        39,
+        33,
+        30,
+        24,
+        20,
+        17,
+        14,
+        12,
+        10
+      ]
+    },
+    {
+      "id": 21,
+      "arrival_time": 15,
+      "start_time": 16,
+      "source": 33,
+      "destination": 7,
+      "bandwidth": 9.7702,
+      "deadline": 27.2158,
+      "vnf_chain": [
+        9,
+        3
+      ],
+      "placement_hint": [
+        24,
+        18
+      ],
+      "route_hint": [
+        33,
+        30,
+        24,
+        20,
+        17,
+        14,
+        12,
+        10,
+        8,
+        7
+      ]
+    },
+    {
+      "id": 22,
+      "arrival_time": 16,
+      "start_time": 17,
+      "source": 29,
+      "destination": 8,
+      "bandwidth": 10.4878,
+      "deadline": 25.3949,
+      "vnf_chain": [
+        7,
+        9
+      ],
+      "placement_hint": [
+        18,
+        24
+      ],
+      "route_hint": [
+        29,
+        25,
+        18,
+        13,
+        11,
+        6,
+        8
+      ]
+    },
+    {
+      "id": 23,
+      "arrival_time": 17,
+      "start_time": 19,
+      "source": 31,
+      "destination": 9,
+      "bandwidth": 5.7204,
+      "deadline": 27.0958,
+      "vnf_chain": [
+        7,
+        0,
+        6
+      ],
+      "placement_hint": [
+        3,
+        24,
+        13
+      ],
+      "route_hint": [
+        31,
+        27,
+        24,
+        16,
+        18,
+        15,
+        9
+      ]
+    },
+    {
+      "id": 24,
+      "arrival_time": 18,
+      "start_time": 18,
+      "source": 49,
+      "destination": 33,
+      "bandwidth": 10.0608,
+      "deadline": 24.0277,
+      "vnf_chain": [
+        8
+      ],
+      "placement_hint": [
+        3
+      ],
+      "route_hint": [
+        49,
+        42,
+        38,
+        39,
+        33
+      ]
+    },
+    {
+      "id": 25,
+      "arrival_time": 19,
+      "start_time": 20,
+      "source": 43,
+      "destination": 31,
+      "bandwidth": 12.9918,
+      "deadline": 24.3932,
+      "vnf_chain": [
+        9,
+        2
+      ],
+      "placement_hint": [
+        17,
+        16
+      ],
+      "route_hint": [
+        43,
+        34,
+        31
+      ]
+    },
+    {
+      "id": 26,
+      "arrival_time": 19,
+      "start_time": 21,
+      "source": 28,
+      "destination": 43,
+      "bandwidth": 10.006,
+      "deadline": 29.1709,
+      "vnf_chain": [
+        5,
+        2
+      ],
+      "placement_hint": [
+        17,
+        18
+      ],
+      "route_hint": [
+        28,
+        26,
+        23,
+        24,
+        27,
+        31,
+        34,
+        43
+      ]
+    },
+    {
+      "id": 27,
+      "arrival_time": 22,
+      "start_time": 22,
+      "source": 57,
+      "destination": 28,
+      "bandwidth": 2.8554,
+      "deadline": 30.1082,
+      "vnf_chain": [
+        5
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        57,
+        48,
+        46,
+        41,
+        40,
+        32,
+        28
+      ]
+    },
+    {
+      "id": 28,
+      "arrival_time": 23,
+      "start_time": 25,
+      "source": 72,
+      "destination": 15,
+      "bandwidth": 1.3013,
+      "deadline": 41.1036,
+      "vnf_chain": [
+        4,
+        1
+      ],
+      "placement_hint": [
+        18,
+        18
+      ],
+      "route_hint": [
+        72,
+        71,
+        69,
+        68,
+        65,
+        64,
+        60,
+        57,
+        48,
+        44,
+        45,
+        37,
+        36,
+        29,
+        19,
+        15
+      ]
+    },
+    {
+      "id": 29,
+      "arrival_time": 24,
+      "start_time": 25,
+      "source": 58,
+      "destination": 8,
+      "bandwidth": 11.0452,
+      "deadline": 40.222,
+      "vnf_chain": [
+        4,
+        7,
+        2
+      ],
+      "placement_hint": [
+        13,
+        16,
+        18
+      ],
+      "route_hint": [
+        58,
+        56,
+        40,
+        39,
+        33,
+        30,
+        24,
+        20,
+        17,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
+      "id": 30,
+      "arrival_time": 24,
+      "start_time": 24,
+      "source": 4,
+      "destination": 30,
+      "bandwidth": 7.8641,
+      "deadline": 33.166,
+      "vnf_chain": [
+        4
+      ],
+      "placement_hint": [
+        16
+      ],
+      "route_hint": [
+        4,
+        1,
+        3,
+        6,
+        11,
+        16,
+        24,
+        30
+      ]
+    },
+    {
+      "id": 31,
+      "arrival_time": 28,
+      "start_time": 29,
+      "source": 50,
+      "destination": 51,
+      "bandwidth": 1.5795,
+      "deadline": 33.1865,
+      "vnf_chain": [
+        3
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        50,
+        49,
+        42,
+        51
+      ]
+    },
+    {
+      "id": 32,
+      "arrival_time": 30,
+      "start_time": 32,
+      "source": 52,
+      "destination": 64,
+      "bandwidth": 12.3393,
+      "deadline": 44.3804,
+      "vnf_chain": [
+        1,
+        6
+      ],
+      "placement_hint": [
+        18,
+        17
+      ],
+      "route_hint": [
+        52,
+        53,
+        50,
+        49,
+        55,
+        58,
+        63,
+        66,
+        67,
+        68,
+        65,
+        64
+      ]
+    },
+    {
+      "id": 33,
+      "arrival_time": 30,
+      "start_time": 30,
+      "source": 49,
+      "destination": 72,
+      "bandwidth": 11.9948,
+      "deadline": 41.308,
+      "vnf_chain": [
+        6,
+        2
+      ],
+      "placement_hint": [
+        11,
+        40
+      ],
+      "route_hint": [
+        49,
+        55,
+        58,
+        63,
+        66,
+        67,
+        69,
+        71,
+        72
+      ]
+    },
+    {
+      "id": 34,
+      "arrival_time": 30,
+      "start_time": 32,
+      "source": 59,
+      "destination": 19,
+      "bandwidth": 2.5576,
+      "deadline": 40.0023,
+      "vnf_chain": [
+        4
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        59,
+        56,
+        40,
+        32,
+        35,
+        37,
+        36,
+        29,
+        19
+      ]
+    },
+    {
+      "id": 35,
+      "arrival_time": 30,
+      "start_time": 30,
+      "source": 67,
+      "destination": 47,
+      "bandwidth": 13.2185,
+      "deadline": 41.1081,
+      "vnf_chain": [
+        3
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        67,
+        66,
+        63,
+        58,
+        55,
+        49,
+        50,
+        53,
+        52,
+        47
+      ]
+    },
+    {
+      "id": 36,
+      "arrival_time": 30,
+      "start_time": 30,
+      "source": 60,
+      "destination": 71,
+      "bandwidth": 4.0966,
+      "deadline": 39.3766,
+      "vnf_chain": [
+        7,
+        0,
+        5
+      ],
+      "placement_hint": [
+        11,
+        40,
+        40
+      ],
+      "route_hint": [
+        60,
+        64,
+        65,
+        68,
+        69,
+        71
+      ]
+    },
+    {
+      "id": 37,
+      "arrival_time": 33,
+      "start_time": 34,
+      "source": 12,
+      "destination": 65,
+      "bandwidth": 7.7713,
+      "deadline": 48.0451,
+      "vnf_chain": [
+        2,
+        4
+      ],
+      "placement_hint": [
+        17,
+        24
+      ],
+      "route_hint": [
+        12,
+        14,
+        17,
+        20,
+        24,
+        30,
+        33,
+        39,
+        40,
+        41,
+        46,
+        54,
+        65
+      ]
+    },
+    {
+      "id": 38,
+      "arrival_time": 34,
+      "start_time": 35,
+      "source": 54,
+      "destination": 47,
+      "bandwidth": 14.0374,
+      "deadline": 46.4804,
+      "vnf_chain": [
+        3,
+        0,
+        8
+      ],
+      "placement_hint": [
+        40,
+        40,
+        24
+      ],
+      "route_hint": [
+        54,
+        46,
+        41,
+        40,
+        39,
+        38,
+        34,
+        43,
+        47
+      ]
+    },
+    {
+      "id": 39,
+      "arrival_time": 38,
+      "start_time": 40,
+      "source": 26,
+      "destination": 39,
+      "bandwidth": 5.3712,
+      "deadline": 46.5537,
+      "vnf_chain": [
+        7,
+        9,
+        2
+      ],
+      "placement_hint": [
+        13,
+        40,
+        11
+      ],
+      "route_hint": [
+        26,
+        28,
+        32,
+        40,
+        39
+      ]
+    },
+    {
+      "id": 40,
+      "arrival_time": 38,
+      "start_time": 39,
+      "source": 8,
+      "destination": 38,
+      "bandwidth": 12.3566,
+      "deadline": 51.2771,
+      "vnf_chain": [
+        9,
+        8
+      ],
+      "placement_hint": [
+        16,
+        16
+      ],
+      "route_hint": [
+        8,
+        10,
+        12,
+        14,
+        17,
+        21,
+        22,
+        27,
+        31,
+        34,
+        38
+      ]
+    },
+    {
+      "id": 41,
+      "arrival_time": 43,
+      "start_time": 45,
+      "source": 71,
+      "destination": 4,
+      "bandwidth": 9.3401,
+      "deadline": 60.1717,
+      "vnf_chain": [
+        8
+      ],
+      "placement_hint": [
+        40
+      ],
+      "route_hint": [
+        71,
+        69,
+        67,
+        66,
+        62,
+        61,
+        41,
+        40,
+        32,
+        28,
+        25,
+        18,
+        13,
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": 42,
+      "arrival_time": 43,
+      "start_time": 44,
+      "source": 48,
+      "destination": 56,
+      "bandwidth": 12.4713,
+      "deadline": 50.381,
+      "vnf_chain": [
+        2,
+        8
+      ],
+      "placement_hint": [
+        18,
+        24
+      ],
+      "route_hint": [
+        48,
+        46,
+        41,
+        40,
+        56
+      ]
+    },
+    {
+      "id": 43,
+      "arrival_time": 44,
+      "start_time": 46,
+      "source": 35,
+      "destination": 49,
+      "bandwidth": 5.4319,
+      "deadline": 52.0523,
+      "vnf_chain": [
+        4
+      ],
+      "placement_hint": [
+        24
+      ],
+      "route_hint": [
+        35,
+        32,
+        40,
+        39,
+        38,
+        42,
+        49
+      ]
+    },
+    {
+      "id": 44,
+      "arrival_time": 44,
+      "start_time": 45,
+      "source": 0,
+      "destination": 71,
+      "bandwidth": 9.9221,
+      "deadline": 60.1612,
+      "vnf_chain": [
+        8,
+        7
+      ],
+      "placement_hint": [
+        11,
+        3
+      ],
+      "route_hint": [
+        0,
+        13,
+        18,
+        25,
+        28,
+        32,
+        40,
+        41,
+        61,
+        62,
+        66,
+        67,
+        69,
+        71
+      ]
+    },
+    {
+      "id": 45,
+      "arrival_time": 46,
+      "start_time": 46,
+      "source": 20,
+      "destination": 54,
+      "bandwidth": 8.5767,
+      "deadline": 56.0273,
+      "vnf_chain": [
+        7
+      ],
+      "placement_hint": [
+        17
+      ],
+      "route_hint": [
+        20,
+        24,
+        30,
+        33,
+        39,
+        40,
+        41,
+        46,
+        54
+      ]
+    },
+    {
+      "id": 46,
+      "arrival_time": 46,
+      "start_time": 48,
+      "source": 55,
+      "destination": 6,
+      "bandwidth": 11.4295,
+      "deadline": 58.1409,
+      "vnf_chain": [
+        6
+      ],
+      "placement_hint": [
+        24
+      ],
+      "route_hint": [
+        55,
+        49,
+        42,
+        38,
+        39,
+        33,
+        30,
+        24,
+        16,
+        11,
+        6
+      ]
+    },
+    {
+      "id": 47,
+      "arrival_time": 46,
+      "start_time": 48,
+      "source": 49,
+      "destination": 54,
+      "bandwidth": 7.2481,
+      "deadline": 55.1376,
+      "vnf_chain": [
+        3
+      ],
+      "placement_hint": [
+        13
+      ],
+      "route_hint": [
+        49,
+        55,
+        58,
+        56,
+        59,
+        61,
+        62,
+        54
+      ]
+    },
+    {
+      "id": 48,
+      "arrival_time": 47,
+      "start_time": 47,
+      "source": 63,
+      "destination": 69,
+      "bandwidth": 3.7153,
+      "deadline": 53.1374,
+      "vnf_chain": [
+        5,
+        2
+      ],
+      "placement_hint": [
+        11,
+        16
+      ],
+      "route_hint": [
+        63,
+        66,
+        67,
+        69
+      ]
+    },
+    {
+      "id": 49,
+      "arrival_time": 48,
+      "start_time": 50,
+      "source": 66,
+      "destination": 20,
+      "bandwidth": 8.851,
+      "deadline": 59.1373,
+      "vnf_chain": [
+        0
+      ],
+      "placement_hint": [
+        18
+      ],
+      "route_hint": [
+        66,
+        62,
+        61,
+        41,
+        40,
+        39,
+        33,
+        30,
+        24,
+        20
+      ]
+    }
+  ]
+}
